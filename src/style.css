@@ -1,0 +1,29 @@
+.homeDiv{
+    background-color: rgba(166, 160, 160, 0.4);
+    border-radius: 1em;
+}
+
+.sodaDiv{
+    background-color: rgba(166, 160, 160, 0.4);
+    border-radius: 1em;
+}
+.candyDiv{
+    background-color: rgba(166, 160, 160, 0.4);
+    border-radius: 1em;
+}
+.chipDiv{
+    background-color: rgba(166, 160, 160, 0.4);
+    border-radius: 1em;
+}
+.image{
+    width:auto;
+    height: auto;
+}
+button{
+    background-origin: padding-box;
+    background-color: rgba(173, 149, 149, 0.4);
+    border-radius: 10%;
+    width: 140px;
+    height: 42px;
+ 
+}

@@ -1,0 +1,26 @@
+.NavBar {
+    background-color: rgb(233, 223, 222);
+    text-align: center;
+    font-weight: bold;
+    border-radius: 1rem;
+    width: auto;
+  }
+
+
+.NavBar a {
+    padding: 0.5em 0;
+    width: 10em;
+    display: inline-block;
+    color: rgb(112, 111, 111);
+    text-decoration: none;
+  }
+
+  .NavBar a:hover {
+    background-color: rgb(136, 132, 132);
+    color: white !important;
+  }
+
+  .NavBar a.active {
+    font-weight: bold;
+    color: rgb(8, 4, 4);
+  }
